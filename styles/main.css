@@ -1,6 +1,6 @@
 img{
-    margin-left: 160mm;
-    margin-top: -55mm;
+    
+    margin-top: -60mm;
     width: 200mm;
     height: 200mm;
     
@@ -14,4 +14,21 @@ img{
 
 body {
     background-color: lightgoldenrodyellow;
+    
+}
+
+button { 
+    margin-top: 2pc;
+    margin-left: 75mm;
+    
+
+
+}
+
+.info {
+   text-align: center;
+    font-size: 50px;
+   
+    
+    
 }
